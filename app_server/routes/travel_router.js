@@ -1,9 +1,8 @@
-/* GET travel view */
-const express = require('express');
-const router = express.Router(); 
-const controller= require('../controllers/travel_controller'); 
+var express = require('express');
+var router = express.Router();
+const controller = require('../controllers/travel_controller');
 
-/* GET home page. */ 
-router.get('/', controller.travel); 
+/* GET travel page. */
+router.get('/', controller.travelList);
 
 module.exports = router;
