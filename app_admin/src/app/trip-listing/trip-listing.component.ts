@@ -25,6 +25,7 @@ export class TripListingComponent implements OnInit {
     ) { }
     
   private addTrip(): void {
+    console.log("TripListingComponent#addTrip")
     this.router.navigate(['add-trip']);
   }
 
