@@ -26,9 +26,9 @@ The API endpoints are secured using authentication and authorization schemes tha
 - **Node.js** - The backend framework that many modern developers use to create their web server. It is considered a solid foundation for building web applications on. JavaScript is the primary programming language used within Node and Express, making the MEAN stack easy to manipulate with only the knowledge of Javascript.
 
 ## Screenshots 
+![EditPage](https://user-images.githubusercontent.com/52177935/145691018-c7d4a39f-487e-4106-a2fd-9032768ddc67.PNG)
+![TripsList](https://user-images.githubusercontent.com/52177935/145691026-6c1bc496-e36a-495e-b9a3-2aa7579dc2ff.PNG)
 
-![Edit Page](screenshots/EditPage.png)
-![Trips List Page](screenshots/TripsList.png)
 
 ## CS-465 Course Specifics
 
