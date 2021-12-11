@@ -69,3 +69,6 @@ typings/
 
 # Local History for Visual Studio Code
 .history/
+
+#Authentication 
+.env 

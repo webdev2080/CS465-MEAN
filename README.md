@@ -27,9 +27,8 @@ The API endpoints are secured using authentication and authorization schemes tha
 
 ## Screenshots 
 
-![Trips page](Screenshots/Postman_login.jpg)
-![Add trip page](Screenshots/Postman_createTripWithJWT.jpg)
-
+![Edit Page](screenshots/EditPage.png)
+![Trips List Page](screenshots/TripsList.png)
 
 ## CS-465 Course Specifics
 
