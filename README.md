@@ -30,7 +30,6 @@ The API endpoints are secured using authentication and authorization schemes tha
 ![Edit Page](screenshots/EditPage.png)
 ![Trips List Page](screenshots/TripsList.png)
 
-
 ## CS-465 Course Specifics
 
 JSON is considered a data transmission format while JavaScript is a programming language. JSON is used within both the frontend and backend development of the application by passing HTTP requests containing JSON bodies.
